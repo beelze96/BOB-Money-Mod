@@ -8,5 +8,5 @@ after installing the file manager, grant it an access on shizuku.
 now open the Zarchiver app and go to
 Android/data/com.sybogames.brim/user_profile/
 
-Now edit user_profile.json
+Now edit user_profile.json [User_Profile](https://github.com/beelze96/BOB-Money-Mod/blob/5e6c3c1b24e36affafe8f2bc9542dd18c360f57b/user_profile.json)
 
