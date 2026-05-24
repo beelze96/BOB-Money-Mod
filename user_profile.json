@@ -1,0 +1,158 @@
+{
+  "highscore": 467,
+  "achievements": {
+    "1": {
+      "progress": 5,
+      "previousMax": 0,
+      "stars": 0
+    },
+    "11": {
+      "progress": 841,
+      "previousMax": 0,
+      "stars": 0
+    },
+    "12": {
+      "progress": 0,
+      "previousMax": 5,
+      "stars": 0
+    },
+    "15": {
+      "progress": 467,
+      "previousMax": 0,
+      "stars": 0
+    },
+    "17": {
+      "progress": 841,
+      "previousMax": 0,
+      "stars": 0
+    },
+    "18": {
+      "progress": 5,
+      "previousMax": 0,
+      "stars": 0
+    },
+    "9": {
+      "progress": 48,
+      "previousMax": 0,
+      "stars": 0
+    }
+  },
+  "characterInventory": {
+    "5000": {
+      "selectedHead": "2301",
+      "selectedChest": "2300",
+      "selectedLegs": "2302"
+    }
+  },
+  "gearInventory": {
+    "32": {
+      "upgradeLevel": 0
+    },
+    "2300": {
+      "upgradeLevel": 0
+    },
+    "2301": {
+      "upgradeLevel": 0
+    },
+    "2302": {
+      "upgradeLevel": 0
+    }
+  },
+  "petInventory": {},
+  "gachaBoxInventory": {},
+  "choiceItemInventory": {},
+  "features": {
+    "state": "100100000100000000000100000010000000000000000000000100000000001100",
+    "tutorials": "100000000000000000000000000000000000000000000000000100000000001000"
+  },
+  "ftue": {
+    "state": 0,
+    "ftueevent": 37748698
+  },
+  "dailyQuest": {
+    "progress": 0,
+    "previousMax": 0,
+    "dayToDayProgress": 0,
+    "claimed": false,
+    "date": "2026-05-23T16:07:05.8564880Z",
+    "previousDate": "2026-05-23T16:04:47.4764500Z"
+  },
+  "missions": {
+    "missionProgress": 0,
+    "activeMissionCursor": 0,
+    "activeMissions": [
+      {
+        "progress": 0,
+        "previousMax": 0,
+        "id": "1001"
+      }
+    ]
+  },
+  "level": 1,
+  "totalIAPs": 0,
+  "dynamicShop": {
+    "lastRefreshTime": "1970-01-01T00:00:00.0000000Z",
+    "currentRotation": []
+  },
+  "gdprConsentDate": "2026-05-23T16:05:07.1358640Z",
+  "gdprConsentWithdrawalDate": "1970-01-01T00:00:00Z",
+  "dataJobStatus": 0,
+  "currencyInventory": {
+    "2": 999999999,
+    "1": 999999999
+  },
+  "selectedWeapon": "32",
+  "selectedCharacter": "5000",
+  "seeds": {
+    "gachaBox": 3661120732,
+    "_gachaboxIncrement": 0,
+    "general": 2201875993,
+    "_generalIncrement": 0
+  },
+  "date": "2026-05-23T16:06:31.0260890Z",
+  "lastGetActivityReward": "1970-01-01T00:00:00.0000000Z",
+  "socialLinksRewarded": {},
+  "straightUpgrades": {
+    "extra_score_bonus": {
+      "level": 0
+    },
+    "pot_smash_bonus": {
+      "level": 0
+    },
+    "enemy_smash_bonus": {
+      "level": 0
+    },
+    "crystal_smash_bonus": {
+      "level": 0
+    },
+    "dungeon_score_bonus": {
+      "level": 0
+    }
+  },
+  "timedReward": {
+    "lastDayStart": "1970-01-01T00:00:00.0000000Z",
+    "dailyCount": 0,
+    "_lastRewardTimestamp": "1970-01-01T00:00:00.0000000Z"
+  },
+  "timedOffers": {},
+  "chapters": {
+    "currentChapterId": -1,
+    "pendingChapterCompletion": false,
+    "activeChapterObjectives": {}
+  },
+  "pluginUserId": "",
+  "offersGameDataHistory": {
+    "InGameDataHistory": {
+      "offerPurchaseHistories": [],
+      "gameActionHistories": []
+    }
+  },
+  "deferredOffers": {
+    "offers": []
+  },
+  "updated": "2026-05-23T16:06:31.0260890Z",
+  "weaponCount": 1,
+  "gearCount": 3,
+  "petsCount": 0,
+  "characterCount": 1
+}
