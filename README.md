@@ -6,4 +6,7 @@ if you have Shizuku already installed on you device, all you need to do is insta
 after installing the file manager, grant it an access on shizuku.
 
 now open the Zarchiver app and go to
-Android/data/com.sybogames.brim/
+Android/data/com.sybogames.brim/user_profile/
+
+Now edit user_profile.json
+
